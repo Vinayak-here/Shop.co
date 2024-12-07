@@ -1,12 +1,15 @@
 import React from 'react'
 import Sidebar from './Sidebar'
-import Carousel from './Carousel'
+import HomeCarousel from './HomeCarousel'
 
 const Hero = () => {
   return (
     <>
+      <div className=' inline-flex'>
         <Sidebar></Sidebar>
-        <Carousel></Carousel>
+        <HomeCarousel></HomeCarousel>
+        
+      </div>
     </>
   )
 }
