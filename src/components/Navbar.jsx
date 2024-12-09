@@ -14,16 +14,16 @@ const Navbar = () => {
 
                 <div className="flex flex-row gap-6 py-0.5">
                     <div className="relative">
-                        <span className="hover:after:scale-x-100 after:content-[''] after:block after:h-0.5 after:bg-slate-700 after:scale-x-0 after:origin-center after:transition-transform after:duration-300">Home</span>
+                        <span className="hover:after:scale-x-100 after:rounded-lg after:content-[''] after:block after:h-0.5 after:bg-slate-700 after:scale-x-0 after:origin-center after:transition-transform after:duration-300">Home</span>
                     </div>
                     <div className="relative">
-                        <span className="hover:after:scale-x-100 after:content-[''] after:block after:h-0.5 after:bg-slate-700 after:scale-x-0 after:origin-center after:transition-transform after:duration-300">Contact</span>
+                        <span className="hover:after:scale-x-100 after:rounded-lg after:content-[''] after:block after:h-0.5 after:bg-slate-700 after:scale-x-0 after:origin-center after:transition-transform after:duration-300">Contact</span>
                     </div>
                     <div className="relative">
-                        <span className="hover:after:scale-x-100 after:content-[''] after:block after:h-0.5 after:bg-slate-700 after:scale-x-0 after:origin-center after:transition-transform after:duration-300">About</span>
+                        <span className="hover:after:scale-x-100 after:rounded-lg after:content-[''] after:block after:h-0.5 after:bg-slate-700 after:scale-x-0 after:origin-center after:transition-transform after:duration-300">About</span>
                     </div>
                     <div className="relative">
-                        <span className="hover:after:scale-x-100 after:content-[''] after:block after:h-0.5 after:bg-slate-700 after:scale-x-0 after:origin-center after:transition-transform after:duration-300">Sign Up</span>
+                        <span className="hover:after:scale-x-100 after:rounded-lg after:content-[''] after:block after:h-0.5 after:bg-slate-700 after:scale-x-0 after:origin-center after:transition-transform after:duration-300">Sign Up</span>
                     </div>
                 </div>
 

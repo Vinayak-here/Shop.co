@@ -11,7 +11,7 @@ const HomeCarousel = () => {
   return (
     <>
       <div>
-        <Carousel className ="flex justify-center align-middle p-16 ml-20" >
+        <Carousel className ="flex justify-center align-middle p-16 ml-20 w-auto" >
           <CarouselContent>
             <CarouselItem><img src={Frame1}/></CarouselItem>
             <CarouselItem><img src={Frame1}/></CarouselItem>
