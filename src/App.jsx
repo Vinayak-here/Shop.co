@@ -5,6 +5,7 @@ import Navbar from './components/Navbar'
 import React from 'react';
 import Hero from './components/Hero';
 import { Sales } from './components/Sales';
+import MidSection from './components/MidSection';
 
 
 function App() {
@@ -16,6 +17,7 @@ function App() {
       <Navbar></Navbar>
       <Hero></Hero>
       <Sales></Sales>
+      <MidSection></MidSection>
     </>
   )
 }

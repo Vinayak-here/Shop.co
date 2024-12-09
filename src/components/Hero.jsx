@@ -8,7 +8,6 @@ const Hero = () => {
       <div className=' inline-flex'>
         <Sidebar></Sidebar>
         <HomeCarousel></HomeCarousel>
-        
       </div>
     </>
   )
